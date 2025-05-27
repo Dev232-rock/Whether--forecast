@@ -1,6 +1,6 @@
-# 🌤️ React Weather Dashboard - Qodex.ai Assignment
+# 🌤️ React Weather Dashboard 
 
-A responsive React.js weather dashboard that displays real-time weather information using the OpenWeatherMap API, built as part of the Qodex.ai frontend developer assignment.
+A responsive React.js weather dashboard that displays real-time weather information using the OpenWeatherMap API
 
 ---
 
@@ -19,26 +19,6 @@ A responsive React.js weather dashboard that displays real-time weather informat
 
 ---
 
-## 📁 Folder Structure
-
-```
-src/
-├── components/
-│   ├── SearchBar.js
-│   ├── WeatherDisplay.js
-│   ├── ErrorDisplay.js
-│   └── ForecastDisplay.js
-├── context/
-│   └── WeatherContext.js
-├── utils/
-│   └── api.js
-├── App.js
-├── index.js
-├── styles.js
-└── .env
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +75,8 @@ The app will open at `http://localhost:3000`.
 
 ## 🖼️ Screenshots
 
-> Add screenshots here if required by the submission.
+![image](https://github.com/user-attachments/assets/fa58b00a-ccc9-497e-be59-277ceb083543)
+
 
 ---
 
