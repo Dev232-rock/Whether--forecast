@@ -14,7 +14,7 @@ A responsive React.js weather dashboard that displays real-time weather informat
 - 🧩 Modular components (Search, WeatherDisplay, ErrorDisplay)
 - ✅ Graceful error handling for bad inputs and API failures
 - 🌐 Switch between Celsius and Fahrenheit
-- 📆 Bonus: 5-day forecast with condition icons (optional)
+- 📆 5-day forecast with condition icons 
 - 📡 API integration using Axios
 
 ---
